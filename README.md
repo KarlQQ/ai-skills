@@ -23,6 +23,8 @@ ai-skills/
 
 | Skill | 說明 |
 |-------|------|
+| [ai-sdlc-pipeline](./skills/ai-sdlc-pipeline/) | AI Agent 軟體開發生產線：一鍵建立從需求到部署的完整目錄結構、治理框架與 10 個 Agent 角色 |
+| [coh2-release-package](./skills/coh2-release-package/) | coh2 出版包版流程：rebase、force-push、rsync 打包 zip |
 | [project-knowledge](./skills/project-knowledge/) | 專案工程知識庫：代碼分析、需求與 issue 歸檔 |
 
 ## 新增 Skill
